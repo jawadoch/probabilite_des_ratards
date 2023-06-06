@@ -4,7 +4,7 @@ Ce projet consiste en une application permettant de simuler les retards d'arriv�
 
 ## Étapes de l'analyse des retards de vol  (voir `analyse.pdf`)
 
-1. Lecture du dataset `fly.csv` contenant les données des vols.
+1. Lecture du dataset `fly.csv` contenant les données des vols. lien de teléchargement (https://www.kaggle.com/datasets/giovamata/airlinedelaycauses).
 2. Préparation des données en sélectionnant la colonne des retards d'arrivée.
 3. Suppression des valeurs manquantes dans la colonne des retards d'arrivée.
 4. Estimation des paramètres de la loi gamma à partir des données des retards d'arrivée.
